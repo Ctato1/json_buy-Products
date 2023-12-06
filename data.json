@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "name": "tato",
+      "id": 1,
+      "products": [
+        {
+          "productName": "coffee",
+          "price": 3,
+          "quantity": 22,
+          "id": 3
+        }
+      ]
+    },
+    {
+      "name": "temo",
+      "products": [],
+      "id": 2
+    },
+    {
+      "name": "vaxo",
+      "products": [],
+      "id": 3
+    },
+    {
+      "name": "genadi",
+      "products": [],
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "productName": "cheese",
+      "id": 2,
+      "price": 6,
+      "quantity": 18
+    },
+    {
+      "productName": "coffee",
+      "price": 3,
+      "quantity": 21,
+      "id": 3
+    },
+    {
+      "productName": "chicken",
+      "price": 12,
+      "quantity": 14,
+      "id": 4
+    },
+    {
+      "productName": "tomato",
+      "price": 2,
+      "quantity": 6,
+      "id": 5
+    }
+  ]
+}
